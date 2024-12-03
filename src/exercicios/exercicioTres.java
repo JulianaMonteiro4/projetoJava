@@ -29,5 +29,4 @@ public class exercicioTres {
 		
 		System.out.println("O valor do seu salário líquido é de: " + salarioLiquido);
 	}
-
 }

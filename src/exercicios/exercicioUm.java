@@ -21,6 +21,4 @@ public class exercicioUm {
 				
 		System.out.println("O valor do seu novo salário é de: " + novoSalario);
 	}
-	
-
 }

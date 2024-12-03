@@ -30,5 +30,4 @@ public class exercicioDois {
 		
 		System.out.println("A média total do aluno é: " + mediaNotas);
 	}
-
 }

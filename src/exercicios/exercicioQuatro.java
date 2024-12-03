@@ -29,5 +29,4 @@ public class exercicioQuatro {
 
 		System.out.println("A diferença entre os valores são: " + diferenca);
 	}
-
 }
