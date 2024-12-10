@@ -14,7 +14,6 @@ public class exercicioHeatSet {
 		Scanner leia = new Scanner(System.in);
 		Set<Double> numeros = new HashSet<Double>();
 
-		//numeros.sort(null);
 		for (i = 0; i <10; i ++) {
         	System.out.println("Digite o " + (i+1) + "º número: ");
         	Double numero = leia.nextDouble();
